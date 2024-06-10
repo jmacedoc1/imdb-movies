@@ -1,5 +1,7 @@
 ## Top movies in IMDb
 
+Web app to see top movies in IMDb by year and genre.
+
 IMDb is an online database on movies, series and docs data (among others).
 Their data is available here:
 [https://datasets.imdbws.com/](https://datasets.imdbws.com/)
